@@ -1,0 +1,42 @@
+[
+  {
+    "id": "missao1",
+    "nome": "Microgravidade",
+    "estado": "Intacto"
+  },
+  {
+    "id": "missao2",
+    "nome": "Exploração",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao3",
+    "nome": "Alguma_cousa",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao4",
+    "nome": "Alguma_cousa",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao5",
+    "nome": "Alguma_cousa",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao6",
+    "nome": "Alguma_cousa",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao7",
+    "nome": "Alguma_cousa",
+    "estado": "Intacto"
+  },
+  {
+    "id": "missao8",
+    "nome": "Alguma_cousa",
+    "estado": "Avariado"
+  }
+]
