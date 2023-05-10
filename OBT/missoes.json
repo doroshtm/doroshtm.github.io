@@ -1,0 +1,42 @@
+[
+  {
+    "id": "missao1",
+    "nome": "Densidade óssea e muscular em microgravidade",
+    "estado": "Intacto"
+  },
+  {
+    "id": "missao2",
+    "nome": "Materiais resistentes a radiação espacial",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao3",
+    "nome": "Comportamento de fluídos em microgravidade",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao4",
+    "nome": "Microrganismos em ambientes extremos",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao5",
+    "nome": "Crescimento de plantas em microgravidade",
+    "estado": "Intacto"
+  },
+  {
+    "id": "missao6",
+    "nome": "Regeneração de tecidos em microgravidade",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao7",
+    "nome": "Comunicação por rádio no espaço",
+    "estado": "Avariado"
+  },
+  {
+    "id": "missao8",
+    "nome": "Cristalização de proteínas em microgravidade",
+    "estado": "Avariado"
+  }
+]
